@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-commerce-multi-select-feature/static/css/main.d1b05096.chunk.css",
+    "main.js": "/e-commerce-multi-select-feature/static/js/main.a5a1779d.chunk.js",
+    "main.js.map": "/e-commerce-multi-select-feature/static/js/main.a5a1779d.chunk.js.map",
+    "runtime-main.js": "/e-commerce-multi-select-feature/static/js/runtime-main.72226006.js",
+    "runtime-main.js.map": "/e-commerce-multi-select-feature/static/js/runtime-main.72226006.js.map",
+    "static/js/2.3432b19a.chunk.js": "/e-commerce-multi-select-feature/static/js/2.3432b19a.chunk.js",
+    "static/js/2.3432b19a.chunk.js.map": "/e-commerce-multi-select-feature/static/js/2.3432b19a.chunk.js.map",
+    "index.html": "/e-commerce-multi-select-feature/index.html",
+    "precache-manifest.f543fae1409a30dc8b24e0d788f50bfa.js": "/e-commerce-multi-select-feature/precache-manifest.f543fae1409a30dc8b24e0d788f50bfa.js",
+    "service-worker.js": "/e-commerce-multi-select-feature/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/e-commerce-multi-select-feature/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3432b19a.chunk.js.LICENSE.txt": "/e-commerce-multi-select-feature/static/js/2.3432b19a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72226006.js",
+    "static/js/2.3432b19a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a5a1779d.chunk.js"
+  ]
+}
